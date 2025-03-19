@@ -29,7 +29,7 @@ public class Main {
         slendrinaSpawnEgg = new ItemSpawnEgg(2, 0x000000, 0xFF0000).setUnlocalizedName("slendrina_spawn_egg");
         
         GameRegistry.registerItem(grannySpawnEgg, "");
-        GameRegistry.registerItem(slendrinaSpawnEgg, "");
+        GameRegistry.registerItem(, "");
     }
 
     @Mod.EventHandler
